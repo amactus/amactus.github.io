@@ -7,7 +7,7 @@ $(document).ready(function() {
             pos : 0,
         };
 
-        $(animate).animate({rot : deg, pos : 200}, {
+        $(animate).animate({rot : deg, pos : 300}, {
             step : function(now, fx) {
                 var pos = fx.elem.pos;
                 var rot = fx.elem.rot;

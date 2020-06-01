@@ -24,7 +24,7 @@ p {
 }
 
 .circle {
-    margin-top: -100px;
+    margin-top: -200px;
 }
 
 .circle a {
@@ -39,7 +39,7 @@ p {
 
 .center {
     display: block;
-    width: 175px;
+    width: 350px;
     margin: 0 auto;
 }
 
@@ -60,7 +60,7 @@ p {
 .center > img {
     display: block;
     width: 100%;
-    padding-top: 175px;
+    padding-top: 350px;
 }
 
 #about {
