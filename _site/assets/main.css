@@ -62,17 +62,3 @@ p {
     width: 100%;
     padding-top: 250px;
 }
-
-#about {
-    display: block;
-    margin-top: 300px;
-    padding-bottom: 50px;
-}
-
-#about #icons {
-    text-align: center;
-}
-
-#about #icons a {
-    margin: 0 15px;
-}
