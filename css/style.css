@@ -331,7 +331,7 @@ div.pp_default .pp_next:hover
 
 div.pp_default .pp_previous:hover
 {
-    background: url(../images/nav_left.png);
+    background: url(../assets/nav_left.png);
     cursor: pointer;
     background-repeat: no-repeat;
     background-position: 5% 50%;
